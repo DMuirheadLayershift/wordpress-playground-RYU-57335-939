@@ -1,5 +1,7 @@
 # WordPress Playground and PHP WASM (WebAssembly)
 
+ This page has been modified to give a test.
+
 [Project Page](https://developer.wordpress.org/playground/) | [Live demo](https://playground.wordpress.net/) | [Documentation and API Reference](https://wordpress.github.io/wordpress-playground/)
 
 [WordPress Playground](https://github.com/WordPress/wordpress-playground) is an experimental in-browser WordPress that runs without a PHP server thanks to the magic of WebAssembly.
